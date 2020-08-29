@@ -1,0 +1,9 @@
+
+/*gets rid of the margins*/
+*{
+  margin: 0;
+}
+
+.app{
+  background-color: #111;
+} 
